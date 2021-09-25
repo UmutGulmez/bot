@@ -44,8 +44,7 @@ $ npm run build
 ## 🗃️ Techs Using
 - TypeScript
 - Node.js
-- Discord.js
-- discord.js
+- Discord.js 
 - MongoDB (mongoose)
 
 ## 🖋️ License
